@@ -6,10 +6,10 @@
 4. ParaView - https://www.paraview.org/download/ (Windows)
 
 ## WSL(recommended) - 
- Distro - Ubuntu (easier to install, could use Debian/Arch as well).
- WSL Installation - https://learn.microsoft.com/en-us/windows/wsl/install
- Create Shared Folder - https://www.youtube.com/watch?v=JgzSVAQjIkY&ab_channel=JamesLawrence
-  Navigate to folder, type "code ." to launch VSCode to access code using WSL.
+ \\ Distro - Ubuntu (easier to install, could use Debian/Arch as well).
+ \\ WSL Installation - https://learn.microsoft.com/en-us/windows/wsl/install
+ \\ Create Shared Folder - https://www.youtube.com/watch?v=JgzSVAQjIkY&ab_channel=JamesLawrence
+ \\ Navigate to folder, type "code ." to launch VSCode to access code using WSL.
 
 
 ## Virtual Machine - 
