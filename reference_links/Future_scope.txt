@@ -1,0 +1,10 @@
+1 - Apply Neumann/Dirichlet boundary conditions onto 2D code to simulate changing Pot/Fields and get forces/torque.
+
+ (Code for this is ready in 3D_code.py, need to copy paste and debug for multiple microbots)
+
+
+2 - Loop multiple iterations of positions in 2D_code.py to predict positions for multiple bots.
+
+3 - Translate 2D_code.py into 3D based on 3D_code.py with boundary conditions and generate positions for multiple time steps.
+
+4 - Animate changing fields/forces and positions in ParaView.
