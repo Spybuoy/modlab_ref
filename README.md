@@ -3,7 +3,7 @@
 ## Requirements
 1. WSL/Virtual Machine
 2. Setup FEniCS (latest) - https://fenicsproject.org/download/, (legacy) - https://fenicsproject.org/download/archive/
-4. ParaView - https://www.paraview.org/download/ (Windows)
+4. ParaView - https://www.paraview.org/download/ [Windows/Linux] (Had issues with linux installation relating to display scaling, win version runs flawlessly)
 
 ## WSL(recommended) - 
  \\ Distro - Ubuntu (easier to install, could use Debian/Arch as well).
